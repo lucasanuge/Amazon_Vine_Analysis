@@ -6,6 +6,8 @@ The purpose of this project is to analyze Amazon reviews written by the members 
 
 ## Results
 
+We first filtered the data set to only reviews with 20 or more votes, and 
+
 - How many Vine reviews and non-Vine reviews were there?
 <br>
 
