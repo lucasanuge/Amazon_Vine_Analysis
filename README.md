@@ -15,6 +15,8 @@ There are a total of 607 Vine reviews and 50516 non-Vine reviews. See the screen
 
 ![count_Vine_reviews](images/count_Vine_reviews.PNG)
 ![count_non-Vine_reviews](images/count_non-Vine_reviews.PNG)
+![Vine_reviews](images/Vine_reviews.PNG)
+![non-Vine_reviews](images/non-Vine_reviews.PNG)
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
